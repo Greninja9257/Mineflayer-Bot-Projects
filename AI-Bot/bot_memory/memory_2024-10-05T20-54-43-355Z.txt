@@ -1,0 +1,7 @@
+Based on your environment, you can think or say:
+
+"You are standing on a piece of grass_block in the y-coordinate 72. There is also a stone block above you at y-coordinate 69, and a dirt block below you at y-coordinates 71 and 72."
+
+Or, if you'd like to be more concise:
+
+"Grass_block at (x, 72, z), with stone above at (x, 69, z) and dirt below at (x, 71/72, z)."
